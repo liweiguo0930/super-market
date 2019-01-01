@@ -1,5 +1,8 @@
 package com.soft1841.sm.service;
 
+/**
+ * @auther 李伟国
+ */
 public interface SellerService {
     /**
      *
